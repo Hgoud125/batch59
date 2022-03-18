@@ -1,0 +1,8 @@
+touch file1
+ls
+git status
+git add file1
+git status
+git commit -m "sample one"
+git status
+git log
